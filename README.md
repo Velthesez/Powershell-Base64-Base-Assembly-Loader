@@ -22,3 +22,6 @@ Optionally enable debug mode by setting (1 -eq 1) to explore all classes in the 
  -- HOW TO USE IT
 * You take a file thats executable and you can use any EXE to Base64 Encoder, put it in raw text format on any website that lets you do raw pastes
 * and put it where the paste.binger link is.
+![image](https://github.com/Velthesez/Powershell-Base64-Base-Assembly-Loader/assets/112898308/a2bb0531-c39d-4800-8d83-8f955d3ef395)
+The File Currently in the Base64 is a nanocore stub which is usually detected but not after putting it within this script.
+Essentially making Malware that's previously detectable almost undetectable unless running out of the powershell runtime.
