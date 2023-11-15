@@ -1,0 +1,2 @@
+# Powershell Base64 Base Assembly Loader
+ this script is designed to download an assembly from a URL, load it into memory, and either list all classes in the assembly (if in debug mode) or invoke a specific method of a specific class in the assembly. The class name (ClassLibrary1.A) and method name (main) are initially provided, but you can modify them based on the requirements of the loaded assembly.
